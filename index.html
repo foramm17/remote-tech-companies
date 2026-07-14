@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Remote Tech Companies Directory</title>
+  <meta name="description" content="A curated directory of technology companies that hire remotely. Browse and search remote-friendly companies worldwide.">
+  <link rel="canonical" href="https://foram17.github.io/remote-tech-companies/">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Remote Tech Companies</h1>
+    <p class="tagline">A curated directory of technology companies that hire remotely.</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <label for="search" class="visually-hidden">Search companies</label>
+      <input
+        type="search"
+        id="search"
+        placeholder="Search companies…"
+        autocomplete="off"
+        aria-controls="company-list"
+      >
+      <p id="count" class="count" aria-live="polite"></p>
+    </div>
+
+    <ul id="company-list" class="company-list">
+      <li class="status" id="status">Loading companies…</li>
+    </ul>
+  </main>
+
+  <footer class="site-footer">
+  </footer>
+
+  <script src="assets/script.js"></script>
+</body>
+</html>
