@@ -636,7 +636,7 @@ A curated, lightweight directory of technology companies that hire remotely. Bro
 | [Quora](https://www.quora.com/careers/) | Worldwide |
 | [Rackspace](https://rackspace.com/) | Worldwide |
 | [Raft](https://goraft.tech/) | Americas |
-| [RaftLabs](https://raftlabs.com) | Americas & Europe |
+| [RaftLabs](https://raftlabs.com) | Worldwide |
 | [Railscarma](https://www.railscarma.com/careers/) | Americas |
 | [Railway](https://railway.com/careers) | Worldwide |
 | [Rainforest QA](https://www.rainforestqa.com/jobs) | Worldwide |
