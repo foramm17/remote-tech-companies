@@ -2,7 +2,7 @@
 
 A curated, lightweight directory of technology companies that hire remotely. Browse and search the live directory, or scan the table below.
 
-**Live site:** https://foram17.github.io/remote-tech-companies/
+**Live site:** https://foramm17.github.io/remote-tech-companies/
 
 ## Companies
 
