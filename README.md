@@ -4,13 +4,6 @@ A curated, lightweight directory of technology companies that hire remotely. Bro
 
 **Live site:** https://foram17.github.io/remote-tech-companies/
 
-## About
-
-- Static site — plain HTML, CSS, and vanilla JavaScript. No frameworks, no build step.
-- Data lives in [`remoteintech.csv`](remoteintech.csv), the single source of truth.
-- The web page loads and renders that CSV at runtime; this table is generated from the same file.
-- **882 companies** listed, sorted alphabetically.
-
 ## Companies
 
 | Company | Region |
