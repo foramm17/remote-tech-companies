@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var CSV_URL = "remoteintech.csv";
+  var CSV_URL = "remotetechcompanies.csv";
   var listEl = document.getElementById("company-list");
   var statusEl = document.getElementById("status");
   var searchEl = document.getElementById("search");
